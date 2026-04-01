@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Masa ini, Nanti, dan Masa Indah Lainnya",
+  "base_artist": "Nuca",
+  "createdAt": "2026-04-01T12:30:25.653365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Masa ini, Nanti, dan Masa Indah Lainnya",
+      "artist": "Nuca",
+      "has_synced": true,
+      "path": "select/01_Masa_ini,_Nanti,_dan_Masa_Indah_Lainnya_Nuca.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Masa ini, Nanti, dan Masa Indah Lainnya",
+      "artist": "Song, Nuca",
+      "has_synced": true,
+      "path": "select/02_Masa_ini,_Nanti,_dan_Masa_Indah_Lainnya_Song,_Nuca.lrc"
+    }
+  ]
+}
