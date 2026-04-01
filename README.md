@@ -1,0 +1,58 @@
+# Nuca – Masa ini, Nanti, dan Masa Indah Lainnya
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.88] Hai
+[00:14.46] Kau datang di saat yang tepat
+[00:20.34] Kau ajarkan apa itu cinta
+[00:24.93] Lewat mata kau berbicara
+[00:36.93] 
+[00:35.04] Hai
+[00:37.67] Mungkin aku telah menanti lama
+[00:43.45] Tapi ternyata tak sia-sia
+[00:48.19] Tuhan berikan malaikat surga
+[01:02.19] 
+[00:58.28] Izinkan ku berjalan bersamamu
+[01:03.63] Mimpi yang telah lama kudambakan
+[01:19.63] 
+[01:11.26] Kau adalah semua jawaban
+[01:16.91] Dari doa yang kupanjatkan
+[01:22.77] Dengan hadirmu di hidupku
+[01:27.88] Sudah ku merasa cukup
+[01:38.38] 
+[01:41.51] Izinkan ku berjalan bersamamu
+[01:47.07] Mimpi yang telah lama kudambahkan
+[01:52.90] Kini semua terasa indah
+[01:58.85] Hitam putih pun mulai berwarna
+[02:13.85] 
+[02:06.15] (Kau adalah semua jawaban)
+[02:11.95] Dari doa yang kupanjatkan
+[02:17.78] Dengan hadirmu di hidupku
+[02:22.68] Sudah ku merasa cukup
+[02:24.74] (Engkaulah jawaban untuk hatiku)
+[02:40.74] 
+[02:29.27] Hati ini telah menetapkan
+[02:35.17] Engkau sosok yang 'kan temani
+[02:40.78] Di masa ini, di masa nanti
+[02:45.93] Dan masa indah lainnya
+[02:56.93] 
+[02:59.23] Semua kata yang terucap
+[03:02.18] Semua tertuju padamu, oh
+[03:10.76] Semua arah yang kutempuh
+[03:13.72] Semua tertuju padamu, ho-oh-oh
+[03:28.72] 
+[03:21.37] Kau adalah semua jawaban
+[03:27.02] Dari doa yang kupanjatkan
+[03:32.66] Dengan hadirmu di hidupku
+[03:37.90] Sudah ku merasa cukup
+[03:40.07] (Engkaulah jawaban untuk hatiku)
+[03:56.07] 
+[03:44.53] Hati ini telah menetapkan
+[03:50.36] Engkau sosok yang 'kan (temani) menemaniku
+[03:55.86] (Di masa ini) di masa ini, (di masa nanti)
+[04:00.01] Oh, dan masa indah lainnya
+[04:13.01] 
+[04:07.49] Di masa ini, masa nanti
+[04:12.53] Dan masa indah lainnya
+```
